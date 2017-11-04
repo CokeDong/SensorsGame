@@ -3,9 +3,10 @@ We develop one sensors-detection based application called SensorsGame on Android
 
 ### PREREQUISITES
 * JDK 1.8
+* ADT 20+
 * Android SDK
   - Build Tools 20+
   - API 15+
 
 ### BUILD
-Build the source code in Eclipse(ADT 20+ installed) directly or Android Studio after file-structure modification.
+Import the folder into Eclipse(PREFERRED) or Android Studio to build the project directly.
