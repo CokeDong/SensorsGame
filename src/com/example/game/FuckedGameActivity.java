@@ -4,7 +4,7 @@ package com.example.game;
 import com.example.util.Constant;
 import com.example.util.DBUtil;
 import com.example.util.SoundUtil;
-
+import com.example.util.*;
 
 import android.app.Activity;
 import android.app.Service;
@@ -50,7 +50,7 @@ public class FuckedGameActivity extends Activity {
 	//声音，调整音量大小
 	AudioManager audio;
 		
-	//消息接收，不同view跳转
+	//消息接收，不同view跳转  Handler使用（git TEST）
 	public Handler hd=new Handler()
 		{
 			public void handleMessage(Message msg)
