@@ -6,4 +6,4 @@ We develop one sensors-detection based application called SensorsGame on Android
 * Android SDK(API 15+, Build Tools 20+) 
 
 # BUILD
-Build the source code in Eclipse directly or Android Studio after file-structure modification.
+Build the source code in Eclipse(ADT 20+ installed) directly or Android Studio after file-structure modification.
