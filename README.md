@@ -9,4 +9,4 @@ We develop one sensors-detection based application called SensorsGame on Android
   - API 15+
 
 ### BUILD
-Import the folder into Eclipse(PREFERRED) or Android Studio to build the project directly.
+Import the folder into Eclipse(***PREFERRED***) or Android Studio to build the project directly.
